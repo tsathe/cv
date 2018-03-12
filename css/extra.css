@@ -50,7 +50,7 @@ h2 {
     color: #BD5D38; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  color: #BD5D38;
+  color: #343a40;
   font-weight: 600;
   text-transform: uppercase; }
 
@@ -108,7 +108,7 @@ section.resume-section {
   background-color: #ffffff !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #343a40 !important; }
 
 a {
   color: #BD5D38; }
